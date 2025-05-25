@@ -108,10 +108,7 @@ Available under the `/visuals` folder.
 ---
 
 ## 🧠 Author
-
 **Seshadri Saarthak**  
-Matriculation Number: 29113535  
-DLBDSEAIS02 – Artificial Intelligence Project
 ---
 
 ```
