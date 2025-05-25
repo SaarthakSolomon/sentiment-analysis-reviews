@@ -108,7 +108,7 @@ Available under the `/visuals` folder.
 ---
 
 ## 🧠 Author
-**Seshadri Saarthak**  
+**Saarthak Solomon**  
 ---
 
 ```
